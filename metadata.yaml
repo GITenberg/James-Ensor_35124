@@ -1,0 +1,35 @@
+_repo: James-Ensor_35124
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verhaeren, Emile
+    aliases:
+    - Verhaeren, Émile
+    - Verhaeren, Emile
+    birthdate: 1855
+    deathdate: 1916
+    gutenberg_agent_id: '3287'
+    url: http://www.gutenberg.org/2009/agents/3287
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Verhaeren
+    - http://en.wikipedia.org/wiki/Emile_Verhaeren
+description: ''
+gutenberg_bookshelf: FR Peinture
+gutenberg_issued: '2011-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35124'
+  lccn: 09024669
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ensor, James, 1860-1949'
+- !lcc 'ND'
+- !lcsh 'Painters -- Belgium -- Biography'
+title: James Ensor
+url: http://www.gutenberg.org/ebooks/35124
