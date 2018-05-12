@@ -17,6 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/%C3%89mile_Verhaeren
     - http://en.wikipedia.org/wiki/Emile_Verhaeren
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35124#James-Ensor
 gutenberg_bookshelf: FR Peinture
 gutenberg_issued: '2011-01-31'
 gutenberg_type: Text
